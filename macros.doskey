@@ -1,0 +1,4 @@
+nginx-start = "C:\config\script\nginx-start"
+nginx-restart = "C:\config\script\nginx-restart"
+nginx-stop = "C:\config\script\nginx-stop"
+nginx-check = "C:\config\script\nginx-check"
